@@ -1,7 +1,3 @@
-{
-  "presubmit": [
-    {
-      "name": "CtsMimeMapTestCases"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:07dedf3092d37fde259e05efa196a0868d05f687047ec23cfdf003f0b3962c87
+size 73

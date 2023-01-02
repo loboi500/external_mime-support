@@ -1,12 +1,3 @@
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: git://anonscm.debian.org/collab-maint/mime-support.git
-
-Files: *
-Copyright: public-domain
-License: ad-hoc
- This package was written by Brian White <bcwhite@pobox.com> and others.
- It contains public information compiled from around the 'net and many people.
- .
- The "update-mime" program was written by Brian White and has been
- placed in the public domain.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce7ee91d78762c6810e8423d731d7b5209d05fb6a006ebfe609bf1d4ed8bcdb6
+size 442
